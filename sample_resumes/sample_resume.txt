@@ -1,0 +1,16 @@
+Ananya Sharma
+Email: ananya.sharma@techmail.com | Phone: +91-98765-43210
+Summary: Senior AI & Backend Engineer with 5.5 years of experience building LLM pipelines and scalable APIs.
+Skills: Python, FastAPI, OpenAI API, Function Calling, JSON Schema, Docker, PostgreSQL, LangChain
+
+Experience:
+Senior AI Engineer | NovaTech Solutions | Jan 2023 - Present
+- Architected structured output pipelines using LLM Function Calling with 99.4% schema compliance.
+- Reduced document parsing latency by 42% using batched async inference workers.
+
+Software Engineer | CloudScale Systems | Jul 2020 - Dec 2022
+- Built RESTful microservices in Python and FastAPI handling 15,000 requests per minute.
+- Designed automated ETL pipelines for enterprise HR analytics.
+
+Education:
+B.Tech in Computer Science, NIT Warangal (2020)
